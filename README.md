@@ -1,4 +1,6 @@
 
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://images.griddo.universitatcarlemany.com/c/cover/q/65/f/svg/ucma-logo-no-text" width="400" alt="Laravel Logo"></a></p>
+
 ## Authentication service design and implementation
 
 
